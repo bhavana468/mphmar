@@ -3,6 +3,7 @@
 
 # Log file
 *.log
+
 .settings/
 .bin/
 .classpath
