@@ -1,2 +1,3 @@
 Hello this is file.txt: 
 eidting in file.txt in remote repo
+chagning using pull
